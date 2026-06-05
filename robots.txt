@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://privacy.amit-lal.com/sitemap.xml
