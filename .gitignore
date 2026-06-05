@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local preview / tooling
+.playwright-mcp/
+*.log
+node_modules/
